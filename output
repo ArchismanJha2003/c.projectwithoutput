@@ -1,0 +1,56 @@
+Welcome to the ATM Simulator
+Enter your PIN: 1234
+ATM Menu
+1. Withdraw
+2. Deposit
+3. Check balance
+4. Change PIN
+5. Exit
+
+Enter your choice: 1
+Enter amount to withdraw: 20
+Withdrawn amount: 20
+Remaining balance: 4980
+ATM Menu
+1. Withdraw
+2. Deposit
+3. Check balance
+4. Change PIN
+5. Exit
+
+Enter your choice: 2
+Enter amount to deposit: 40
+Deposited amount: 40
+New balance: 5020
+
+ATM Menu
+1. Withdraw
+2. Deposit
+3. Check balance
+4. Change PIN
+5. Exit
+
+Enter your choice: 3
+Current balance: 5020
+
+ATM Menu
+1. Withdraw
+2. Deposit
+3. Check balance
+4. Change PIN
+5. Exit
+
+Enter your choice: 4
+Enter new PIN: 6666
+Confirm new PIN: 6666
+PIN changed successfully.
+
+ATM Menu
+1. Withdraw
+2. Deposit
+3. Check balance
+4. Change PIN
+5. Exit
+
+Enter your choice: 5
+Thank you for using the ATM. Goodbye!
